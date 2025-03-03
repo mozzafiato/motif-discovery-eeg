@@ -1,3 +1,2 @@
-## Classification of Psychiatric EEG Data by Motif Discovery
-Paper number: 112
+## Motif Discovery Framework for Psychiatric EEG Data Classification
 
