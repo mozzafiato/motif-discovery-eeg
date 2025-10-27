@@ -1,2 +1,2 @@
-## Motif Discovery Framework for Psychiatric EEG Data Classification
+## EEG-Based Classification in Psychiatry Using Motif Discovery
 
